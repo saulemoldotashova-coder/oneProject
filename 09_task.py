@@ -11,4 +11,6 @@ def delete_nth(order, max_e):
             result.append(num)
             counts[num] += 1
 
-    return result
+    return result 
+
+
