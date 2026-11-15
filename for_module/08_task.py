@@ -1,4 +1,4 @@
-# 8 задание 
+# 8 задание. Посчитать количество раз, которое мяч пройдет мимо окна при падении и отскоке.
 
 def bouncing_ball(h, bounce, window):
     if h <= 0 or bounce <= 0 or bounce >= 1 or window >= h:

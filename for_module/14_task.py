@@ -1,4 +1,4 @@
-# 14 задание 
+# 14 задание. Найти первый неповторяющийся символ в строке.
 
 def first_non_repeating_letter(s):
     for char in s:
